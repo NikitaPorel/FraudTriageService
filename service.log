@@ -1,0 +1,10 @@
+2026-10-26 15:49:09,802 INFO endpoint: /score, status: 200, latency: 18.08ms, txn_id: T800001, prob: 0.0430
+2026-10-26 15:49:09,825 INFO endpoint: /score, status: 200, latency: 18.46ms, txn_id: T800002, prob: 0.9597
+2026-10-26 15:49:09,843 WARNING endpoint: /score, status: 200, latency: 15.30ms, txn_id: T800003, prob: 0.1765
+2026-10-26 15:49:09,847 WARNING endpoint: /score, status: 400, latency: 1.47ms, txn_id: T800004
+2026-10-26 15:49:09,852 WARNING endpoint: /score, status: 422, latency: 0.48ms, txn_id: -
+2026-10-26 15:49:09,871 WARNING endpoint: /case, status: 200, latency: 16.88ms, txn_id: T900002, prob: 0.9597
+2026-10-26 15:49:09,891 WARNING endpoint: /case, status: 200, latency: 17.23ms, txn_id: T900005, prob: 0.9597
+2026-10-26 15:49:09,911 WARNING endpoint: /case, status: 200, latency: 17.05ms, txn_id: T900099, prob: 0.9597
+2026-10-26 15:49:09,930 INFO endpoint: /case, status: 200, latency: 16.52ms, txn_id: T800001, prob: 0.0430
+2026-10-26 15:49:09,951 WARNING endpoint: /case, status: 200, latency: 16.46ms, txn_id: T800006, prob: 0.9597
